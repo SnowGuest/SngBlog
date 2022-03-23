@@ -1,7 +1,6 @@
-### SngBlog
-🤔 I’m looking for help with vue3 tauri
-<=== study secretly ===>
- - [icon]electron
+** <=== study secretly ===> **
+ - 🦀 Rust
+ - C# 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SngBlog)](https://github.com/anuraghazra/github-readme-stats)
 <!--
