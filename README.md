@@ -1,8 +1,7 @@
-** <=== study secretly ===> **
+**<=== study secretly ===>**
  - 🦀 Rust
  - C# 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SngBlog)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
